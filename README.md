@@ -148,4 +148,50 @@ The project uses Laravel's built-in authentication system, with controllers loca
 The project uses Laravel's built-in authentication system, with controllers located in app/Http/Controllers/Auth/.
 
 
-## Project Images
+# Project Images
+
+## E-Commerce Frontend
+
+### Homepage
+![E-Commerce Homepage](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/landing.jpg)
+
+### Shop Page
+![E-Commerce Shop Page](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/list.jpg)
+
+### Product Detail Page
+![E-Commerce Product Detail Page](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/detail.jpg)
+
+## Utility Pages
+
+### Cart Page
+![E-Commerce Cart Page](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/cart.jpg)
+
+### Checkout Page
+![E-Commerce Checkout Page](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/checkout.jpg)
+
+### User Profile
+![User Profile Addresses](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/user_profile_addresses.jpg)
+![User Profile Order Detail](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/user_profile_order_detail.jpg)
+![User Profile Orders](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/user_profile_orders.jpg)
+![User Profile Reviews](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/user_profile_reviews.jpg)
+
+
+## Administrative Dashboard
+
+### Dashboard Landing
+![Admin Dashboard Landing](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/dashboard_landing.jpg)
+
+### Bestselling Products
+![Admin Dashboard Bestselling Products](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/dashboard_bestsellers.jpg)
+
+### StoreStats
+![Admin Dashboard Store Stats](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/dashboard_stats.png)
+
+### Orders
+![Admin Dashboard Orders](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/dashboard_orders.png)
+![Admin Dashboard Create Order](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/dashboard_create_order.png)
+![Admin Dashboard Order Detail](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/dashboard_order_detail.jpg)
+
+## Figma Mockups
+![Figma Mockups 1](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/figma_mockups_1.jpg)
+![Figma Mockups 2](https://raw.githubusercontent.com/donaldobi/couture-closet/main/storage/app/public/images/screenshots/figma_mockups_2.png)
